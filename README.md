@@ -15,7 +15,7 @@
 
 - 🖥️ **Demo 演示站点**：[https://EDT-Pages.github.io/admin](https://EDT-Pages.github.io/admin)
 
-### ✨ 核心特性 
+### ✨ 核心特性  
 
 - 🛡️ **协议支持**：支持 VLESS、Trojan 等主流协议，深度集成加密传输。
 - 📊 **管理面板**：内置可视化后台，支持实时配置修改、日志查看及流量统计。
